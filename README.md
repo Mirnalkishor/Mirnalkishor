@@ -8,7 +8,7 @@
 <a href="https://in.linkedin.com/in/mirnalkishor" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/linked-in.png" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/Mirnalkishor" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/github.png" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/anonymous7v1/" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/geeks-for-geeks.png" alt="GeeksforGeeks" height="30" width="40" /></a>
-<a href="" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/hackerrank.png" alt="Hackerrank" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anonymous7v1" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/codechef.png" alt="Codechef" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/anonymous7v1/" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/leet-code.png" height="30" width="40" /></a>
 </p>
 
