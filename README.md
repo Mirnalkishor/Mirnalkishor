@@ -10,7 +10,6 @@
 <a href="https://www.geeksforgeeks.org/user/anonymous7v1/" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/geeks-for-geeks.png" alt="GeeksforGeeks" height="30" width="40" /></a>
 <a href="" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/hackerrank.png" alt="Hackerrank" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/anonymous7v1/" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/leet-code.png" height="30" width="40" /></a>
-<a href="" target="_blank"><img align="center" src="https://github.com/Mirnalkishor/GitHub-Profile-README-Generator/blob/main/icons/instagram.png" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
